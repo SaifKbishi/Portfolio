@@ -1,0 +1,40 @@
+:root{
+  --background:'#1e4258';
+  --cube: '#494b68';
+  --cubeBG: '#2d5f5d';
+}
+.containersStyle{
+  height: 550px;
+  /* background-color: blueviolet; */
+}
+
+.socialMedia{
+  height: 200px;
+}
+
+.cloudsAround{
+  box-shadow: inset 0px 0px 20px 20px #494b68;
+  border-radius:20%;
+}
+@media(max-width:340px){
+  .cloudsAround{
+    box-shadow: inset 0px 0px 20px 5px #494b68;
+    border-radius:20%;
+  }
+}
+.breakLines{
+  white-space: pre-wrap;
+}
+
+.aboutMeDescription{  
+  -webkit-line-clamp: 9;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  overflow-wrap: break-word;
+}
+
+.App {
+  background: #022140;
+}
