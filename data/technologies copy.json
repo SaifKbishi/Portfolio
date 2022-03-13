@@ -1,0 +1,344 @@
+{
+  "tech":[
+    {
+      "id":1,
+      "name": "HTML5",
+      "icon":"html5",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name": "axios",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name": "REST API",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name": "JavaScript",
+      "icon":"js",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":5,
+      "name": "NodeJS",
+      "icon":"node",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name": "ReactJS",
+      "icon":"react",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":7,
+      "name": "MongoDB",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":8,
+      "name": "CSS3",
+      "icon":"css3",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":9,
+      "name": "Sass",
+      "icon":"sass",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":10,
+      "name": "MS-Sql",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":11,
+      "name": "JQuery",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":12,
+      "name": "TypeScript",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":13,
+      "name": "React Native",
+      "icon":"react",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"MyGarden",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":14,
+      "name": "Netlify",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":15,
+      "name": "AWS",
+      "icon":"aws",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":16,
+      "name": "Docker",
+      "icon":"docker",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":17,
+      "name": "Material-UI",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":18,
+      "name": "JIRA",
+      "icon":"jira",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":19,
+      "name": "Bootstrap",
+      "icon":"bootstrap",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    },
+    {
+      "id":20,
+      "name": "Heroku",
+      "icon":"campground",
+      "usedInProjects":[
+        {
+          "pId":1,
+          "pName":"pname 1",
+          "pLink":""
+        },
+        {
+          "pId":2,
+          "pName":"pname 2",
+          "pLink":""
+        }
+      ]
+    }
+  ]
+}
