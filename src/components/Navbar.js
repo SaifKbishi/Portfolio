@@ -13,7 +13,6 @@ const Navbar =()=>{
     const getPages = async ()=>{
       try{
         const pagesData = await getPagesData();
-        console.log('16: ', pagesData)
         setPages(pagesData);
       }catch(error){
         console.log(`Could not fetch pages, ${error}`);
