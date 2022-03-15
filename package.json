@@ -1,5 +1,4 @@
-{
-  "homepage": "http://SaifKbishi.github.io/Portfolio/",
+{  
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -27,11 +26,11 @@
     "react-scroll": "^1.8.6",
     "typescript": "^4.5.5",
     "web-vitals": "^1.1.2"
-  },
+  },  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

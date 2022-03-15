@@ -10,7 +10,6 @@ const getSkillsData =async ()=>{
 }
 const getLangsAndTechData = async()=>{
   const tech = await axios.get('../data/technologies.json');
-  // console.log('tech.data.tech', tech.data.tech)
   return tech.data.tech;
 }
 const getProjectsData = async()=>{
@@ -22,8 +21,7 @@ const getAboutMeData = async()=>{
   return about.data.aboutMe;
 }
 const getPagesData = async()=>{
-  // const pages = await axios.get('/data/pages.json');
-  const pages = await axios.get('../data/pages.json');
+  const pages = await axios.get('/data/pages.json');
   return pages.data.pages;
 }
 
