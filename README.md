@@ -4,7 +4,7 @@ A showcase of my learning proccess and some of my abilities.
 It is fully `responsive` using [MUI](https://mui.com/) library.  
 Each section details is fetched from local files using async `axios` calls.  
 All axios calls are made from `DAL file` (Data Access Layer). which means there are no API links inside the components.  
-To update and section of the portfolio, all you need is to update the required JSON file.  
+To update any section of the portfolio, all you need is to update the required JSON file.  
   
 Icons are imported from `@fortawesome/react-fontawesome` in mapping file and exported to use all over the project.
 to be able to use Font Awesome I had to search for the desired icon in [FontAwesome](https://fontawesome.com/search) like 'linkedin':  

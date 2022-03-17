@@ -1,9 +1,0 @@
-{
-  "aboutMe":[
-    {
-      "myName":"My name is Saif,",
-      "roleImLookingFor":"I am looking for a Fullstack developer.",
-      "description":"I always thought that working in a place close to my home with a decent salary is a great achievement.\n That was my comfort zone.\nBut, something inside of me always said that I can do more.\nI spent 7 years as technical support, with the coding fire burning inside of me, wondering how am I gonna do it?! how can I go back to coding and software development?! with no experience.\n\nAnd then it happened, I saw a \ncommercial of a young software engineer lady who worked in marketing for 9 years and got back on track after finishing Fullstack Bootcamp.\nThat was the 'eureka' for me, if she can do it I can do too.\nSo, I decided to press into a new beginning, I finished the Bootcamp and started creating frontend & full-stack apps of my own.\nAnd I love it, I love applying responsive design principles and see my application shrink into mobile screens and still look wonderful.\nI love it every time I send an API call with Postman and see the response below.\nI love it when I write some kind of a join from different API's and see the items populated on the screen.\nI love it every time I write a filter function and it works, I love it.\n\nI know the (career) mountain is high, I'm willing to climb it.\nMy specialties include fast learning new skills and programming languages, problem-solving, responsive design principles, clean code writing, and good communication skills.\nSo far, I have JavaScript, MongoDB, ExpressJS, NodeJS, React, SQL, HTML5, CSS3, jQuery, Material-UI, Redux, Bootstrap, Sass, React native, JIRA, Salesforce, Heroku, and Git/Github in my backpack.\n\nI have started learning more about AWS and Typescript.\nI'm still enthusiastic about exploring new programming languages, frameworks, or any coding principle to integrate it into my projects."
-    }
-  ]
-}
