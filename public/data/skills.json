@@ -1,0 +1,24 @@
+{
+  "skills":[
+    {
+      "skillId": 1,
+      "name": "Fast-Self Learner"
+    },
+    {
+      "skillId": 2,
+      "name": "Problem Solver"
+    },
+    {
+      "skillId": 3,
+      "name": "Team Work"
+    },
+    {
+      "skillId": 4,
+      "name": "Communication"
+    },
+    {
+      "skillId": 5,
+      "name": "Mentor"
+    }
+  ]
+}

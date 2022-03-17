@@ -1,0 +1,34 @@
+{
+  "pages":[
+    {
+      "id":"header",
+      "name": "About me",
+      "link":"header"
+    },
+    {
+      "id":"skills",
+      "name": "Skills",
+      "link":"skills"
+    },
+    {
+      "id":"tech",
+      "name": "Tech",
+      "link":"tech"
+    },
+    {
+      "id": "projects",
+      "name": "Projects",
+      "link": "projects"
+    },
+    {
+      "id":"contactMe",
+      "name": "Contact Me",
+      "link": "contactMe"
+    },
+    {
+      "id":"socialMedia",
+      "name": "Social Media",
+      "link":"socialMedia"
+    }
+  ]
+}
