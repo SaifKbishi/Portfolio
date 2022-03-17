@@ -82,7 +82,7 @@
       "id":14,
       "name": "Netlify",
       "icon":"campground",
-      "usedInProjects":"Amazon Store mockup, Flex Tickets"
+      "usedInProjects":"Amazon Store mockup, Flex Tickets, old portfolio, matrix rain OOP"
     },
     {
       "id":15,
@@ -94,7 +94,7 @@
       "id":16,
       "name": "Docker",
       "icon":"docker",
-      "usedInProjects":"many, many more"
+      "usedInProjects":"This potfolio, other practice sessions"
     },
     {
       "id":17,
@@ -118,7 +118,7 @@
       "id":20,
       "name": "Heroku",
       "icon":"campground",
-      "usedInProjects":"many, many more"
+      "usedInProjects":"MyBalance, bankApi, "
     }
   ]
 }
