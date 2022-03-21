@@ -20,32 +20,14 @@
 # CMD ["npm","start"]
 
 
-######################## with NGINX   - NOT WORKING
-# FROM node:14 AS build
-# WORKDIR /portfolio
-# COPY package.json .
-# RUN npm install --production
-# COPY public ./public
-# COPY src ./src
-# RUN npm run build
-
-# FROM nginx:alpine
-# COPY --from=build /portfolio/build /usr/share/nginx/html
-
-
-######################## with NGINX   - new test
-#stage1
+######################## trying with node
 FROM node:14 as build
-WORKDIR /portfolio
-COPY package.json .
+ENV NODE_ENV=production
+WORKDIR /portfolio  
+COPY ["package.json", "package-lock.json*", "./"]
 RUN npm install --production
 COPY public ./public
 COPY src ./src
 RUN npm run build
-
-#stage2
-FROM nginx:alpine 
-WORKDIR /usr/share/nginx/html
-RUN rm -rf ./*
-
-COPY --from =build 
+CMD ["npm", "start"]
+# CMD ["node", "server.js", "npm", "start"]

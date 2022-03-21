@@ -7,7 +7,7 @@ const port = 3005
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World! again AWS 1')
 });
 
 

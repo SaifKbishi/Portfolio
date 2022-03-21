@@ -25,6 +25,6 @@ The styling is done with an external file of [MUI Theming](https://mui.com/custo
   
 ### View this protfolio live on:
 [Saif's portfilio](preview)
-> The portfolio is not completed yet
+> The portfolio is not LIVE yet
 
 
