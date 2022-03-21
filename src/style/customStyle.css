@@ -4,7 +4,7 @@
   --cubeBG: '#2d5f5d';
 }
 .containersStyle{
-  height: 550px;
+  min-height: 550px;
   /* background-color: blueviolet; */
 }
 

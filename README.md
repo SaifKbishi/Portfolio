@@ -24,7 +24,6 @@ The styling is done with an external file of [MUI Theming](https://mui.com/custo
   
   
 ### View this protfolio live on:
-[Saif's portfilio](preview)
-> The portfolio is not LIVE yet
+[Saif's portfilio](https://master.d2w1ku22spfib8.amplifyapp.com/)
 
 
