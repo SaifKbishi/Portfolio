@@ -43,7 +43,7 @@ const Projects =()=>{
     // console.log('link: ',link)
     return(
       <ThemeProvider theme={portfolioTheme}>
-      <Link underline='none' href={'https://mui.com/components/material-icons/'} target="_blank" rel="noopener"  sx={{color:'#FFF', fontSize:{xs:'20px', md:'30px'}}}>
+      <Link underline='none' href={link} target="_blank" rel="noopener"  sx={{color:'#FFF', fontSize:{xs:'20px', md:'30px'}}}>
         <Box sx={{display:'flex',p:{xs:0.5, md:2}, m:0.5, bgcolor: 'secondary.light', width:{xs:170, md:250}, height:{xs:70 , md:70}}}>
           <ProjectsToolTip title={description} >
           <Typography color="textColor" sx={{p:0.5, textAlign:'center',  mx:'auto', my:'auto', fontSize:{xs:'16px', md:'25px'}}}>
