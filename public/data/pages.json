@@ -3,22 +3,26 @@
     {
       "id":"header",
       "name": "About me",
-      "link":"header"
+      "link":"header",
+      "aria_label":"about me"
     },
     {
       "id":"skills",
       "name": "Skills",
-      "link":"skills"
+      "link":"skills",
+      "aria_label":"skills"
     },
     {
       "id":"tech",
       "name": "Tech",
-      "link":"tech"
+      "link":"tech",
+      "aria_label":"tech"
     },
     {
       "id": "projects",
       "name": "Projects",
-      "link": "projects"
+      "link": "projects",
+      "aria_label":"projects"
     },
     {
       "id":"contactMe",

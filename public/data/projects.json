@@ -29,12 +29,6 @@
       "name": "MyGarden",
       "link": "https://github.com/SaifKbishi/myGarden",
       "description":"A React Native application for selling plants, Github repo"
-    },
-    {
-      "id":6,
-      "name": "Flex Tickets",
-      "link": "https://optimistic-gates-f9f390.netlify.app/",
-      "description":"A ticketing site for any type of events, that demonstrates flexibility of the sale flow."
     }
   ]
 }

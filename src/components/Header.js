@@ -54,7 +54,7 @@ const Header =()=>{
  return(
   <ThemeProvider theme={portfolioTheme}>
     <Container id="header" maxWidth='xl' sx={{my:2, pt:3}}> 
-      <Box sx={{display:'flex',justifyContent: 'center', m:1, p:2,mt:5, flexDirection:{xs:'column', md:'column'}, bgcolor: 'secondary.light' }} >
+      <Box aria-label="Fullstack Web & Mobile MERN developer" sx={{display:'flex',justifyContent: 'center', m:1, p:2,mt:5, flexDirection:{xs:'column', md:'column'}, bgcolor: 'secondary.light' }} >
        <Typography sx={{display:'flex',justifyContent: 'center',fontWeight:'bold', fontSize:{xs:50, md:120}}}> Full-stack </Typography>
        <Typography variant="h3" sx={{px:2, display:'flex', alignItems: 'center',justifyContent: 'center', fontSize:{xs:30, md:50}}}>Web & Mobile</Typography>
        <Typography sx={{display:'flex',justifyContent: 'center',fontWeight:'bold', fontSize:{xs:50, md:120}}} style={{textAlign:'center'}}> MERN developer </Typography>
